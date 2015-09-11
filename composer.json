@@ -1,0 +1,10 @@
+{
+    "name": "tsoroka/tsoroka",
+    "description": "Tanya Soroka",
+    "type": "project",
+    "version": "1.0.0-beta",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+}
